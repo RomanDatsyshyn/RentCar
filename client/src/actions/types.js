@@ -1,0 +1,11 @@
+export const GET_ERRORS = 'GET_ERRORS';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const SET_ADMIN = 'SET_ADMIN';
+export const GET_CARS = 'GET_CARS';
+export const GET_CAR = 'GET_CAR';
+export const GET_ORDERS = 'GET_ORDERS';
+export const FIND_CARS = 'FIND_CARS';
+export const CAR_LOADING = 'CAR_LOADING';
+export const CAR_ID_LOADING = 'CAR_ID_LOADING';
+export const LOADING_SEARCH_RESULT = 'LOADING_SEARCH_RESULT';
+export const ORDERS_LOADING = 'ORDERS_LOADING';
